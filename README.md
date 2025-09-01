@@ -2,10 +2,6 @@
 
 > Transform your vibe-coded chaos into clean, maintainable code with laser-focused GitHub Copilot chatmodes
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Copilot](https://img.shields.io/badge/GitHub-Copilot-blue)](https://github.com/features/copilot)
-[![VS Code](https://img.shields.io/badge/VS%20Code-Chatmodes-green)](https://code.visualstudio.com/docs/copilot/chat-modes)
-
 ## 🎯 What is this?
 
 A collection of specialized GitHub Copilot chatmodes designed to detect and fix common "vibe coding" issues. Each chatmode is focused on a single problem, providing precise detection and ready-to-implement fixes.
@@ -124,42 +120,6 @@ You are a [specialist type] who detects [problem]...
 
 [Rest of chatmode content...]
 ```
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- Add new detector chatmodes
-- Improve existing detectors
-- Share success stories
-- Report issues
-
-### Contribution Guidelines:
-1. One chatmode = one problem
-2. Include real-world examples
-3. Provide working fixes, not theoretical solutions
-4. Add clear implementation steps
-5. Include metrics and benefits
-
-## 📊 Success Metrics
-
-Users report:
-- **60-80% code reduction** in refactored files
-- **Faster debugging** with meaningful variable names
-- **Eliminated circular dependencies** in complex projects
-- **Consistent codebase** with standardized patterns
-- **Reduced bundle sizes** from proper dead code removal
-
-## 🙏 Acknowledgments
-
-Inspired by the Unix philosophy: "Do one thing and do it well"
-
-Built for developers who want to transform their vibe-coded projects into maintainable, professional codebases.
-
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file for details
-
----
 
 **Remember**: Good code is not about writing fast, it's about writing code that lasts 🎯
 
