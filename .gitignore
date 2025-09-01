@@ -9,13 +9,13 @@ ehthumbs.db
 Desktop.ini
 
 # VS Code
-.vscode/
 *.code-workspace
 
 # IDE
 .idea/
 *.iml
 *.iws
+temp_auto_push.bat
 
 # Logs
 *.log
@@ -33,3 +33,5 @@ node_modules/
 # Build outputs
 dist/
 build/
+.gitignore
+temp_interactive_push.bat
